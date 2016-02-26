@@ -1,0 +1,63 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 2C4E-CB1B
+
+ Directory of C:\Users\vacomitikm\Documents\GitHub\VA_Data_Assets_NCA
+
+01/19/2016  10:41 PM    <DIR>          .
+01/19/2016  10:41 PM    <DIR>          ..
+01/19/2016  10:41 PM                 0 NCA_FILES.txt
+01/14/2016  03:33 PM        13,658,395 ngl_alabama.xlsx
+01/14/2016  03:34 PM         1,355,595 ngl_alaska.xlsx
+01/14/2016  03:35 PM        13,592,087 ngl_arizona.xlsx
+01/14/2016  03:36 PM        13,702,550 ngl_arkansas.xlsx
+01/14/2016  11:58 AM       101,508,168 ngl_california.xlsx ***
+01/14/2016  03:37 PM        18,353,880 ngl_colorado.xlsx
+01/14/2016  07:15 PM         8,203,235 ngl_connecticut.xlsx
+01/14/2016  07:16 PM         3,215,909 ngl_delaware.xlsx
+01/14/2016  07:17 PM        45,216,108 ngl_florida.xlsx
+01/14/2016  07:17 PM           531,825 ngl_foreign_addresses.xlsx
+01/14/2016  07:18 PM        19,394,174 ngl_georgia.xlsx
+01/14/2016  07:19 PM         9,506,165 ngl_hawaii.xlsx
+01/14/2016  07:26 PM         2,874,282 ngl_idaho.xlsx
+01/14/2016  07:27 PM        31,415,947 ngl_illinois.xlsx
+01/14/2016  07:27 PM        15,019,525 ngl_indiana.xlsx
+01/14/2016  07:28 PM         8,085,634 ngl_iowa.xlsx
+01/14/2016  07:28 PM        14,040,837 ngl_kansas.xlsx
+01/14/2016  07:29 PM        17,203,915 ngl_kentucky.xlsx
+01/14/2016  07:29 PM        12,320,891 ngl_louisiana.xlsx
+01/14/2016  07:40 PM         7,528,327 ngl_maine.xlsx
+01/14/2016  07:44 PM        20,271,020 ngl_maryland.xlsx
+01/14/2016  07:45 PM        24,008,359 ngl_massachusetts.xlsx
+01/14/2016  07:45 PM        24,446,592 ngl_michigan.xlsx
+01/14/2016  07:46 PM        34,628,884 ngl_minnesota.xlsx
+01/14/2016  07:47 PM        11,339,593 ngl_mississippi.xlsx
+01/14/2016  08:09 PM        38,615,570 ngl_missouri.xlsx
+01/14/2016  08:10 PM         2,993,871 ngl_montana.xlsx
+01/14/2016  08:10 PM         4,753,596 ngl_nebraska.xlsx
+01/14/2016  08:11 PM         6,634,008 ngl_nevada.xlsx
+01/14/2016  08:11 PM         3,726,147 ngl_new_hampshire.xlsx
+01/14/2016  08:12 PM        20,678,781 ngl_new_jersey.xlsx
+01/14/2016  08:13 PM         9,293,585 ngl_new_mexico.xlsx
+01/14/2016  08:14 PM       100,452,210 ngl_new_york.xlsx *******
+01/14/2016  08:32 PM        21,708,988 ngl_north_carolina.xlsx
+01/14/2016  08:33 PM         2,785,158 ngl_north_dakota.xlsx
+01/14/2016  08:34 PM        34,448,169 ngl_ohio.xlsx
+01/14/2016  08:35 PM        13,279,386 ngl_oklahoma.xlsx
+01/14/2016  08:36 PM        25,889,790 ngl_oregon.xlsx
+01/14/2016  08:37 PM        30,878,868 ngl_pennsylvania.xlsx
+01/14/2016  08:37 PM         4,525,870 ngl_rhode_island.xlsx
+01/14/2016  08:38 PM        12,098,743 ngl_south_carolina.xlsx
+01/14/2016  08:39 PM         5,292,706 ngl_south_dakota.xlsx
+01/14/2016  08:40 PM        34,107,334 ngl_tennessee.xlsx
+01/14/2016  08:47 PM        68,652,976 ngl_texas.xlsx
+01/14/2016  08:47 PM         9,204,432 ngl_usa_territoties.xlsx
+01/14/2016  08:48 PM         2,893,389 ngl_utah.xlsx
+01/14/2016  08:49 PM         1,726,606 ngl_vermont.xlsx
+01/14/2016  08:50 PM        23,272,869 ngl_virginia.xlsx
+01/14/2016  08:50 PM        10,726,480 ngl_washington.xlsx *****
+01/14/2016  08:51 PM           115,309 ngl_washingtondc.xlsx ****
+01/14/2016  08:52 PM         7,976,294 ngl_west_virginia.xlsx ***
+01/14/2016  08:52 PM        17,894,014 ngl_wisconsin.xlsx *****
+01/14/2016  08:53 PM         1,093,176 ngl_wyoming.xlsx ****
+              54 File(s)    987,140,222 bytes
+        '       2 Dir(s)  181,962,936,320 bytes free
